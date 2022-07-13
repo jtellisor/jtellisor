@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jtellisor
+- Currently learning through the Odin Project and other self-taught means.
+- Hoping to learn enough to begin a career in web development in the next two years.
